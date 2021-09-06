@@ -22,6 +22,10 @@
     font-family: 'Raleway', sans-serif;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 *::selection {
     background-color: var(--contact-icons-color);
     color: var(--text-color);
