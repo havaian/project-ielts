@@ -201,19 +201,19 @@ body i {
 }
 
 .contact-email i:hover {
-    color: #FF4500;
+    color: var(--email-hover-color);
 }
 
 .contact-twitter i:hover {
-    color: #1DA1F2;
+    color: var(--twitter-hover-color);
 }
 
 .contact-reddit i:hover {
-    color: #FF5700;
+    color: var(--reddit-hover-color);
 }
 
 .contact-telegram i:hover {
-    color: #0088CC;
+    color: var(--telegram-hover-color);
 }
 
 .contacts-section h3 {
