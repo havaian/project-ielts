@@ -24,7 +24,7 @@
 
 *::selection {
     background-color: var(--contact-icons-color);
-    color: var(--text-color);
+    color: var(--span-text-color);
 }
 
 body {
